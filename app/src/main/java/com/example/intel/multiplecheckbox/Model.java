@@ -5,4 +5,5 @@ package com.example.intel.multiplecheckbox;
  */
 
 public class Model {
+//mmm
 }
